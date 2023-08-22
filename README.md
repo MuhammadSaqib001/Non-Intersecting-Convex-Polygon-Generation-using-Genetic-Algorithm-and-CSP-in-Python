@@ -2,6 +2,8 @@
 
 This project generates non-intersecting convex polygons in n dimensions using a combination of Genetic Algorithm and Constraint Satisfaction Problem (CSP) techniques. The goal is to evolve a population of polygons that adhere to geometric constraints, ensuring non-intersecting, convex shapes.
 
+![output](https://github.com/MuhammadSaqib001/Polygon-Generation-using-Genetic-Algorithm-and-CSP-in-Python/blob/main/sample_output.png)
+
 
 
 
